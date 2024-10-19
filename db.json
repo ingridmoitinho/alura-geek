@@ -1,0 +1,23 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Funko Pop Robin",
+        "price": 250,
+        "image": "./assets/funko.jpg"
+      },
+      {
+        "id": 2,
+        "title": " Action Figure Ace ",
+        "price": 100,
+        "image": "./assets/ace.jpg"
+      },
+      {
+        "id": 3,
+        "title": " Action Figure Zoro",
+        "price": 120,
+        "image": "./assets/zoro.webp"
+      }    
+    ]
+  }
+  
